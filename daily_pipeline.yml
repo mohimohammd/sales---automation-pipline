@@ -1,4 +1,4 @@
-name: Daily Sales & Exchange Rate Pipeline
+name: daily_pipeline.yml 
 
 on:
   schedule:
