@@ -1,4 +1,4 @@
-name: daily_pipeline.yml 
+name: .github/workflows/daily_pipeline.yml
 
 on:
   schedule:
